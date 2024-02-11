@@ -2,6 +2,8 @@
 
 Welcome to OptiManuAI, your comprehensive AI solution tailored for the manufacturing industry. OptiManuAI is designed to revolutionize the way manufacturing processes are managed by seamlessly integrating cutting-edge technologies to enhance efficiency, predict future trends, and optimize every aspect of your operations.
 
+## Architectural Setup
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Key Components](#key-components)
@@ -10,11 +12,7 @@ Welcome to OptiManuAI, your comprehensive AI solution tailored for the manufactu
   - [3. Optimization Algorithms](#optimization-algorithms)
   - [4. Data Visualization Tools](#data-visualization-tools)
   - [5. Integration Layer](#integration-layer)
-  - [6. Security & Compliance](#security--compliance)
 - [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -43,35 +41,27 @@ OptiManuAI provides intuitive Data Visualization Tools that present analytics an
 
 Seamless integration with existing systems, such as ERP and CRM, is facilitated by the Integration Layer. OptiManuAI ensures that it maximizes the use of available data and functionalities without disrupting your current operations.
 
-### 6. Security & Compliance
-
-To prioritize the integrity and confidentiality of your data, OptiManuAI includes a robust Security & Compliance component. This ensures adherence to relevant regulations and standards, providing you with peace of mind regarding the handling and protection of sensitive information.
 
 ## Getting Started
+To Gain insights from the `OptiManuAI` solution, we built a custom copilot- `ManuMate` to help in the interpretation of the insights generated from the Fabric Solution
 
-To get started with OptiManuAI, follow the installation guide provided below.
+### User Interaction: 
+- `ManuMate Copilot` interacts with the users, answering their questions about the System, guiding them through its features, and helping them interprete the insights it generates
 
-## Installation
+### Data Exploration:
+- `ManuMate Copilot` explains the results generated b the predictive analytics engine from `Fabric` and Optimization algorithms in a user-friendly way. It provides recommendations based on these results
 
-1. Clone the OptiManuAI repository.
-   ```bash
-   git clone https://github.com/AnthonyByansi/OptiManuAI.git
-   ```
+### System Monitoring
+- `ManuMate Copliot` monitors the system's performance, alerting users to any potential issue or anomalies
 
-2. Navigate to the project directory.
-   ```bash
-   cd OptiManuAI
-   ```
+### Integration with Other Systems
+- `ManuMate Copilot` integrates with the rest of the company systems like `ERP`, `CRM` pulling in relevant data to provide a more comprehensive view of the manufacturing process
 
-3. Follow the detailed installation instructions in the [Installation Guide](./docs/installation.md).
+### Continuous Learning
+- `ManuMate Copilot` learns from user interactions, continuously improves its ability to provide relevant and useful information
 
-## Usage
-
-Once installed, refer to the [Usage Guide](./docs/usage.md) for detailed instructions on utilizing the features and capabilities of OptiManuAI.
-
-## Contributing
-
-We welcome contributions! To contribute to OptiManuAI, please follow the guidelines outlined in the [Contributing Guide](./CONTRIBUTING.md).
+### Security and Compliance
+- Just like any other copilot built by help of Copilot studio, `ManuMate Copilot` ensures all interactions comply with relevant regulations and standards,and user data is secure.
 
 ## License
 
