@@ -5,7 +5,6 @@ Welcome to OptiManuAI, your comprehensive AI solution tailored for the manufactu
 ## Architectural Setup
 ![Fabric Global Hack](https://github.com/AnthonyByansi/OptiManuAI/assets/101401469/9764a3a6-bab8-46d9-87cf-20a908aabc10)
 
-![Architectural Setup](./Assets/Fabric Global Hack.gif)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Key Components](#key-components)
