@@ -21,14 +21,23 @@ Welcome to OptiManuAI, your comprehensive AI solution tailored for the manufactu
 OptiManuAI is an all-encompassing solution designed to meet the specific needs of the manufacturing industry. By leveraging advanced artificial intelligence, predictive analytics, and optimization algorithms, OptiManuAI empowers manufacturers to make informed decisions, streamline processes, and enhance overall productivity.
 
 ## Data Lifecycle within Fabric
-Our Solution Puts the `Fabric Medallion Architecture` into Consideration. The `Bronze Layer` being our raw zone(Simply row data), the `Silver layer` being the enriched zone, and the `Gold Layer` being the Validated Zone(With data for Enterprise wide use)
+Our Solution Puts the `Fabric Medallion Architecture` into Consideration. The `Bronze Layer` being our raw zone(Simply raw data), the `Silver layer` being the enriched zone, and the `Gold Layer` being the Validated Zone(With data for Enterprise wide use)
 ![Data Lifecycle](https://github.com/AnthonyByansi/OptiManuAI/assets/101401469/4fdc5cd4-f4f9-4d6e-87a0-3fb26e4f53d5)
 
 
 
 ### 1. Data Ingestion & Processing
+#### Storage in the Bronze Layer
+We begin by collecting data from diverse sources, including IoT sensors, sales data, and supply chain information and storing that in our Bronze Layer-Raw data
+![Data Load](https://github.com/AnthonyByansi/OptiManuAI/assets/101401469/3bbd66cd-52b1-4529-828f-780bd27dcca7)
 
-The heart of OptiManuAI lies in its ability to collect and process data from diverse sources, including IoT sensors, sales data, and supply chain information. This component ensures that the data is cleaned, standardized, and ready for analysis.
+#### Transforming the Data for Silver Layer
+Next we use attach the Lakehouse onto the new notebook and transform the data for the silver layer
+![image](https://github.com/AnthonyByansi/OptiManuAI/assets/101401469/5843ef2e-6140-4cdd-88a6-1f77871a7c48)
+
+#### Load data to Gold Layer
+After transformaion we load our data to the Gold Layer- which consits of the Curated Data
+
 
 ### 2. Predictive Analytics Engine
 
