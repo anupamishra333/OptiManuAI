@@ -20,7 +20,7 @@ Welcome to OptiManuAI, your comprehensive AI solution tailored for the manufactu
 
 OptiManuAI is an all-encompassing solution designed to meet the specific needs of the manufacturing industry. By leveraging advanced artificial intelligence, predictive analytics, and optimization algorithms, OptiManuAI empowers manufacturers to make informed decisions, streamline processes, and enhance overall productivity.
 
-## Key Processes of the System
+## Data Lifecycle within Fabric
 
 ### 1. Data Ingestion & Processing
 
