@@ -45,10 +45,6 @@ After transformaion we load our data to the Gold Layer- which consits of the Cur
 We utlize PowerBI to generrate the insights and detect the temperature changes beyond the threshold value using `Data activator` and send notifications via teams
 ![Temperature threshold](https://github.com/AnthonyByansi/OptiManuAI/assets/101401469/7035f802-455e-4f80-8103-09ceaa001b06)
 
-### 4. Integration Layer
-
-Seamless integration with existing systems, such as ERP and CRM, is facilitated by the Integration Layer. OptiManuAI ensures that it maximizes the use of available data and functionalities without disrupting your current operations.
-
 
 ## Getting Started
 To Gain insights from the `OptiManuAI` solution, we built a custom copilot- `ManuMate` to help in the interpretation of the insights generated from the Fabric Solution
