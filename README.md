@@ -48,6 +48,9 @@ We utilize PowerBI to generate the insights and detect the temperature changes b
 Or using the Data Activator UI
 ![image](https://github.com/AnthonyByansi/OptiManuAI/assets/101401469/a90bf0e8-e7a9-4362-b59b-1d418a8570bb)
 
+##### Sample Alert from Data Activator
+![image](https://github.com/AnthonyByansi/OptiManuAI/assets/101401469/68dd8603-d7da-4fcd-be7f-bda9d4a990a6)
+
 ## Getting Started
 To Gain insights from the `OptiManuAI` solution, we built a custom copilot- `ManuMate` to help in the interpretation of the insights generated from the Fabric Solution
 
