@@ -37,6 +37,7 @@ Next we use attach the Lakehouse onto the new notebook and transform the data fo
 
 #### Load data to Gold Layer
 After transformaion we load our data to the Gold Layer- which consits of the Curated Data
+![image](https://github.com/AnthonyByansi/OptiManuAI/assets/101401469/079ee1e0-63cb-454d-a3a7-7abe1dba0e10)
 
 
 ### 2. Predictive Analytics Engine
