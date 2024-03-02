@@ -31,7 +31,7 @@ Our Solution Puts the `Fabric Medallion Architecture` into Consideration. The `B
 We begin by collecting data from diverse sources, including IoT sensors, sales data, and supply chain information and storing that in our Bronze Layer-Raw data
 ![Data Load](https://github.com/AnthonyByansi/OptiManuAI/assets/101401469/3bbd66cd-52b1-4529-828f-780bd27dcca7)
 
-#### Transforming the Data for Silver Layer
+#### 2. Transforming the Data for Silver Layer
 Next we use attach the Lakehouse onto the new notebook and transform the data for the silver layer
 ![image](https://github.com/AnthonyByansi/OptiManuAI/assets/101401469/5843ef2e-6140-4cdd-88a6-1f77871a7c48)
 
@@ -40,19 +40,12 @@ After transformaion we load our data to the Gold Layer- which consits of the Cur
 ![image](https://github.com/AnthonyByansi/OptiManuAI/assets/101401469/079ee1e0-63cb-454d-a3a7-7abe1dba0e10)
 
 
-### 2. Predictive Analytics Engine
+### 3. Data Visualization
 
-OptiManuAI's Predictive Analytics Engine utilizes state-of-the-art machine learning algorithms to forecast future demand, predict equipment failures, and determine optimal inventory levels. This core component drives the solution's ability to deliver invaluable insights.
+We utlize PowerBI to generrate the insights and detect the temperature changes beyond the threshold value using `Data activator` and send notifications via teams
+![Temperature threshold](https://github.com/AnthonyByansi/OptiManuAI/assets/101401469/7035f802-455e-4f80-8103-09ceaa001b06)
 
-### 3. Optimization Algorithms
-
-Building on the predictions made by the Predictive Analytics Engine, Optimization Algorithms fine-tune manufacturing processes. From production schedules to inventory levels and supply chain routes, these algorithms ensure optimal resource utilization and efficiency.
-
-### 4. Data Visualization Tools
-
-OptiManuAI provides intuitive Data Visualization Tools that present analytics and optimization results in a user-friendly format. Decision-makers can easily comprehend and act upon the insights generated, fostering a more agile and responsive manufacturing environment.
-
-### 5. Integration Layer
+### 4. Integration Layer
 
 Seamless integration with existing systems, such as ERP and CRM, is facilitated by the Integration Layer. OptiManuAI ensures that it maximizes the use of available data and functionalities without disrupting your current operations.
 
