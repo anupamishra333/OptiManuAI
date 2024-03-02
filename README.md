@@ -45,6 +45,8 @@ After transformaion we load our data to the Gold Layer- which consits of the Cur
 We utlize PowerBI to generrate the insights and detect the temperature changes beyond the threshold value using `Data activator` and send notifications via teams
 ![Temperature threshold](https://github.com/AnthonyByansi/OptiManuAI/assets/101401469/7035f802-455e-4f80-8103-09ceaa001b06)
 
+Or using the Data Activator UI
+![image](https://github.com/AnthonyByansi/OptiManuAI/assets/101401469/a90bf0e8-e7a9-4362-b59b-1d418a8570bb)
 
 ## Getting Started
 To Gain insights from the `OptiManuAI` solution, we built a custom copilot- `ManuMate` to help in the interpretation of the insights generated from the Fabric Solution
