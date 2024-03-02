@@ -21,6 +21,10 @@ Welcome to OptiManuAI, your comprehensive AI solution tailored for the manufactu
 OptiManuAI is an all-encompassing solution designed to meet the specific needs of the manufacturing industry. By leveraging advanced artificial intelligence, predictive analytics, and optimization algorithms, OptiManuAI empowers manufacturers to make informed decisions, streamline processes, and enhance overall productivity.
 
 ## Data Lifecycle within Fabric
+Our Solution Puts the `Fabric Medallion Architecture` into Consideration. The `Bronze Layer` being our raw zone(Simply row data), the `Silver layer` being the enriched zone, and the `Gold Layer` being the Validated Zone(With data for Enterprise wide use)
+![Data Lifecycle](https://github.com/AnthonyByansi/OptiManuAI/assets/101401469/4fdc5cd4-f4f9-4d6e-87a0-3fb26e4f53d5)
+
+
 
 ### 1. Data Ingestion & Processing
 
