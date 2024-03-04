@@ -3,7 +3,8 @@
 Welcome to OptiManuAI, your comprehensive AI solution tailored for the manufacturing industry. OptiManuAI is designed to revolutionize the way manufacturing processes are managed by seamlessly integrating cutting-edge technologies to enhance efficiency, predict future trends, and optimize every aspect of your operations.
 
 ## Architectural Setup
-![Fabric Global Hack](https://github.com/AnthonyByansi/OptiManuAI/assets/101401469/9764a3a6-bab8-46d9-87cf-20a908aabc10)
+![OptiManuAI](https://github.com/anupamishra333/OptiManuAI/assets/101401469/3f777416-f3d3-4fd9-b8d5-06bbb4133384)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
